@@ -1,0 +1,2 @@
+/api/* http://obscure-badlands-61521.herokuapp.com/api/:splat  200!
+/*                        /index.html                          200
