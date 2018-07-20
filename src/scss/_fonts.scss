@@ -1,0 +1,127 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "untitled-font-1";
+  src:url("fonts/untitled-font-1.eot");
+  src:url("fonts/untitled-font-1.eot?#iefix") format("embedded-opentype"),
+    url("fonts/untitled-font-1.woff") format("woff"),
+    url("fonts/untitled-font-1.ttf") format("truetype"),
+    url("fonts/untitled-font-1.svg#untitled-font-1") format("svg");
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+[data-icon]:before {
+  font-family: "untitled-font-1" !important;
+  content: attr(data-icon);
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="icon-"]:before,
+[class*=" icon-"]:before {
+  font-family: "untitled-font-1" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-fontawesome-webfont:before {
+  content: "\61";
+}
+.icon-fontawesome-webfont-1:before {
+  content: "\62";
+}
+.icon-fontawesome-webfont-2:before {
+  content: "\63";
+}
+.icon-fontawesome-webfont-3:before {
+  content: "\64";
+}
+.icon-fontawesome-webfont-4:before {
+  content: "\65";
+}
+.icon-fontawesome-webfont-5:before {
+  content: "\66";
+}
+.icon-fontawesome-webfont-6:before {
+  content: "\67";
+}
+.icon-fontawesome-webfont-7:before {
+  content: "\68";
+}
+.icon-fontawesome-webfont-8:before {
+  content: "\69";
+}
+.icon-fontawesome-webfont-9:before {
+  content: "\6a";
+}
+.icon-fontawesome-webfont-10:before {
+  content: "\6b";
+}
+.icon-fontawesome-webfont-11:before {
+  content: "\6c";
+}
+.icon-fontawesome-webfont-12:before {
+  content: "\6d";
+}
+.icon-fontawesome-webfont-13:before {
+  content: "\6e";
+}
+.icon-fontawesome-webfont-14:before {
+  content: "\6f";
+}
+.icon-fontawesome-webfont-15:before {
+  content: "\70";
+}
+.icon-fontawesome-webfont-16:before {
+  content: "\71";
+}
+.icon-fontawesome-webfont-17:before {
+  content: "\72";
+}
+.icon-fontawesome-webfont-18:before {
+  content: "\73";
+}
+.icon-fontawesome-webfont-19:before {
+  content: "\74";
+}
+.icon-fontawesome-webfont-20:before {
+  content: "\75";
+}
+.icon-fontawesome-webfont-21:before {
+  content: "\76";
+}
+.icon-fontawesome-webfont-22:before {
+  content: "\77";
+}
+.icon-fontawesome-webfont-24:before {
+  content: "\79";
+}
+.icon-android-send:before {
+  content: "\7a";
+}
+.icon-picture-streamline:before {
+  content: "\41";
+}
+.icon-upload:before {
+  content: "\42";
+}
+.icon-upload-1:before {
+  content: "\43";
+}
+.icon-download:before {
+  content: "\44";
+}
